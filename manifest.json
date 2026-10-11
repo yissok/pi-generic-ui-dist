@@ -1,27 +1,26 @@
 {
   "version": 4,
-  "assets": "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1",
+  "assets": "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1",
   "app": "pi-generic-ui",
-  "global": "__sveltekit_5ws999",
-  "start": "_app/immutable/entry/start.BWpC46Yw.js",
-  "appEntry": "_app/immutable/entry/app.Brt8NkPA.js",
+  "global": "__sveltekit_1ydh5sh",
+  "start": "_app/immutable/entry/start.C9XgAwik.js",
+  "appEntry": "_app/immutable/entry/app.D8Js9VjE.js",
   "styles": [
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/assets/0.B_PICIHt.css"
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/assets/0.B_PICIHt.css"
   ],
   "scripts": [
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/vendor/browser-console.js"
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/vendor/browser-console.js"
   ],
   "preloads": [
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/entry/start.BWpC46Yw.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/D7muewWm.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/WogUC1MP.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/CwIjKSd1.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/entry/app.Brt8NkPA.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/DUye2WEF.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/Bnu931tL.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/CNb_7RiI.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/nodes/0.B3mtpDC9.js",
-    "https://yissok.github.io/pi-generic-ui-dist/releases/a0dfecb92f8eac521ae5043290f1ffafa3c448b9-38129458168-1/_app/immutable/chunks/BWG6U8vj.js"
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/entry/start.C9XgAwik.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/D6FxWAQO.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/Dbjz8I_A.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/entry/app.D8Js9VjE.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/CFcX_3Cy.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/CTGJmVXe.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/8hrQCd1V.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/nodes/0.Dgm_ZBlx.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/eed43f0a493b11876609aa5b05e2c059f675306a-38134708933-1/_app/immutable/chunks/BVoNY0zB.js"
   ],
   "social": {
     "title": "Pi Generic Ui",
