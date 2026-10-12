@@ -1,0 +1,29 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1",
+  "app": "pi-generic-ui",
+  "global": "__sveltekit_17h1u1i",
+  "start": "_app/immutable/entry/start.B554Gvlt.js",
+  "appEntry": "_app/immutable/entry/app.CShUp67v.js",
+  "styles": [
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/assets/0.B_PICIHt.css"
+  ],
+  "scripts": [
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/vendor/browser-console.js"
+  ],
+  "preloads": [
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/entry/start.B554Gvlt.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/D6FxWAQO.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/DSylpUWt.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/entry/app.CShUp67v.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/CFcX_3Cy.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/CTGJmVXe.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/8hrQCd1V.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/nodes/0.Dgm_ZBlx.js",
+    "https://yissok.github.io/pi-generic-ui-dist/releases/bc73ec7844ce912fc8bc86d29207096635fd9fd4-38220833710-1/_app/immutable/chunks/BVoNY0zB.js"
+  ],
+  "social": {
+    "title": "Pi Generic Ui",
+    "description": "An interactive website created with Project Factory."
+  }
+}
